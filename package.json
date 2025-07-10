@@ -1,6 +1,9 @@
 {
   "dependencies": {
     "@supabase/supabase-js": "^2.50.4",
-    "dotenv": "^17.2.0"
+    "@types/node": "^24.0.12",
+    "dotenv": "^17.2.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
   }
 }
